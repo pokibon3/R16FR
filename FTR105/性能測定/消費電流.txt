@@ -1,0 +1,11 @@
+VCC 		4.5V
+
+FTR105
+Power ON 	7.2mA
+CW送信		16.5mA
+受信最大出力	89.8mA
+
+FTR102
+Power ON 	6.0mA
+CW送信		15.2mA
+受信最大出力	89.9mA
